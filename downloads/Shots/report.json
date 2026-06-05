@@ -1,0 +1,1028 @@
+{
+  "gameName": "Shots",
+  "pageUrl": "https://threehey.myfunmax.com/2312/Shots/index.html",
+  "allowedOrigin": "https://threehey.myfunmax.com",
+  "allowedBasePath": "/2312/Shots/",
+  "mode": "strict",
+  "mobileDevice": "iPhone 13",
+  "generatedAt": "2026-06-05T16:21:54.022Z",
+  "summary": {
+    "totalDiscovered": 53,
+    "allowed": 53,
+    "cdnCandidate": 0,
+    "uncertain": 0,
+    "blocked": 0,
+    "downloaded": 0,
+    "skipped": 53,
+    "failed": 0
+  },
+  "resources": [
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/9patch.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/9patch.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/9patch.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/9patch.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/aro_adelante_izq-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/aro_adelante_izq-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/aro_adelante_izq-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/aro_adelante_izq-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/aro_adelante-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/aro_adelante-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/aro_adelante-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/aro_adelante-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/aro_atras_izq-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/aro_atras_izq-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/aro_atras_izq-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/aro_atras_izq-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/aro_atras-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/aro_atras-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/aro_atras-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/aro_atras-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/aro_borde-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/aro_borde-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/aro_borde-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/aro_borde-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/aro_shadow-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/aro_shadow-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/aro_shadow-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/aro_shadow-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/bg_ui_barra-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/bg_ui_barra-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/bg_ui_barra-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/bg_ui_barra-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/bgbotones-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/bgbotones-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/bgbotones-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/bgbotones-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/bgcomplete-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/bgcomplete-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/bgcomplete-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/bgcomplete-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/bgcredits-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/bgcredits-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/bgcredits-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/bgcredits-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/bggame-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/bggame-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/bggame-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/bggame-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/bgpausa-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/bgpausa-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/bgpausa-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/bgpausa-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnback-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnback-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnback-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnback-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnback-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnback-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnback-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnback-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btncont-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btncont-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btncont-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btncont-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btncont-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btncont-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btncont-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btncont-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btncredits-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btncredits-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btncredits-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btncredits-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnlike-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnlike-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnlike-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnlike-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnlike-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnlike-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnlike-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnlike-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnmenu-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnmenu-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnmenu-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnmenu-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnmenu-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnmenu-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnmenu-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnmenu-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnmoregames-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnmoregames-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnmoregames-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnmoregames-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames2-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames2-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnmoregames2-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnmoregames2-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames2-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnmoregames2-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnmoregames2-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnmoregames2-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnpausa-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnpausa-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnpausa-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnpausa-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnpausa-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnpausa-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnpausa-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnpausa-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnplay-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnplay-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnplay-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnplay-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btnplay-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btnplay-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btnplay-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btnplay-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btntryagain-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btntryagain-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btntryagain-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btntryagain-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/btntryagain-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/btntryagain-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/btntryagain-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/btntryagain-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/c_newbest-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/c_newbest-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/c_newbest-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/c_newbest-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/cam_game-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/cam_game-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/cam_game-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/cam_game-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/emiter_blanco-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/emiter_blanco-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/emiter_blanco-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/emiter_blanco-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/fade_screen-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/fade_screen-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/fade_screen-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/fade_screen-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/gol_down-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/gol_down-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/gol_down-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/gol_down-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/logo_grande-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/logo_grande-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/logo_grande-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/logo_grande-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/menu_parlante-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/menu_parlante-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/menu_parlante-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/menu_parlante-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/nubecita-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/nubecita-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/nubecita-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/nubecita-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/octinsports_white.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/octinsports_white.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/octinsports_white.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/octinsports_white.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/particle1-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/particle1-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/particle1-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/particle1-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/particle1-sheet1.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/particle1-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/particle1-sheet1.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/particle1-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/particle1-sheet2.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/particle1-sheet2.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/particle1-sheet2.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/particle1-sheet2.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/player_shadow-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/player_shadow-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/player_shadow-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/player_shadow-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/player-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/player-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/player-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/player-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/tablero_izq-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/tablero_izq-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/tablero_izq-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/tablero_izq-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/tablero-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/tablero-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/tablero-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/tablero-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/titulo-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/titulo-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/titulo-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/titulo-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/tuto_line-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/tuto_line-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/tuto_line-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/tuto_line-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/tuto_tap-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/tuto_tap-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/tuto_tap-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/tuto_tap-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/tuto_x2-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/tuto_x2-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/tuto_x2-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/tuto_x2-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://threehey.myfunmax.com/2312/Shots/images/tuto-sheet0.png",
+      "normalizedUrl": "https://threehey.myfunmax.com/2312/Shots/images/tuto-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Shots/images/tuto-sheet0.png",
+      "origin": "https://threehey.myfunmax.com",
+      "hostname": "threehey.myfunmax.com",
+      "pathname": "/2312/Shots/images/tuto-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "image",
+      "frameUrl": "https://threehey.myfunmax.com/2312/Shots/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    }
+  ]
+}

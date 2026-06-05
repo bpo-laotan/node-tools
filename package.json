@@ -1,0 +1,11 @@
+{
+  "name": "game-image-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "download:game-images": "node scripts/download-game-images.js"
+  },
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}

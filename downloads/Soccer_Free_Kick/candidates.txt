@@ -1,0 +1,64 @@
+[allowed]
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/icon.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/icons/loading-logo.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/ball5-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/brazil-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/crowd-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/crowd2-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet1.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet2.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/player_-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/select-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet1.jpg
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet2.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet3.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/spin-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/stand-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+score=100 url=https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/star-sheet0.png
+reasons=passes strict same-origin same-directory rules
+
+[cdnCandidate]
+(empty)
+
+[uncertain]
+(empty)
+
+[blocked]
+(empty)
+

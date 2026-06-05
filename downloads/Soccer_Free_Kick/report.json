@@ -1,0 +1,363 @@
+{
+  "gameName": "Soccer_Free_Kick",
+  "pageUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/index.html",
+  "allowedOrigin": "https://jvliang.myfunmax.com",
+  "allowedBasePath": "/games/Soccer_Free_Kick/",
+  "mode": "strict",
+  "mobileDevice": "iPhone 13",
+  "generatedAt": "2026-06-05T16:21:34.485Z",
+  "summary": {
+    "totalDiscovered": 18,
+    "allowed": 18,
+    "cdnCandidate": 0,
+    "uncertain": 0,
+    "blocked": 0,
+    "downloaded": 0,
+    "skipped": 17,
+    "failed": 1
+  },
+  "resources": [
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/icon.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/icon.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/icon.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/icon.png",
+      "contentType": "text/html",
+      "resourceType": "dom",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/index.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": "HTTP 404 Not Found"
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/icons/loading-logo.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/icons/loading-logo.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/icons/loading-logo.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/icons/loading-logo.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/ball5-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/ball5-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/ball5-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/ball5-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/brazil-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/brazil-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/brazil-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/brazil-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/crowd-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/crowd-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/crowd-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/crowd-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/crowd2-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/crowd2-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/crowd2-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/crowd2-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/goal_keeper-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/goal_keeper-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet1.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet1.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/goal_keeper-sheet1.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/goal_keeper-sheet1.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet2.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/goal_keeper-sheet2.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/goal_keeper-sheet2.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/goal_keeper-sheet2.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/player_-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/player_-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/player_-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/player_-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/select-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/select-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/select-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/select-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/shared-0-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/shared-0-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet1.jpg",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet1.jpg",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/shared-0-sheet1.jpg",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/shared-0-sheet1.jpg",
+      "contentType": "image/jpeg",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet2.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet2.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/shared-0-sheet2.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/shared-0-sheet2.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet3.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/shared-0-sheet3.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/shared-0-sheet3.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/shared-0-sheet3.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/spin-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/spin-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/spin-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/spin-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/stand-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/stand-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/stand-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/stand-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    },
+    {
+      "url": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/star-sheet0.png",
+      "normalizedUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/images/star-sheet0.png",
+      "localPath": "/mnt/c/Users/Administrator/Documents/tools/downloads/Soccer_Free_Kick/images/star-sheet0.png",
+      "origin": "https://jvliang.myfunmax.com",
+      "hostname": "jvliang.myfunmax.com",
+      "pathname": "/games/Soccer_Free_Kick/images/star-sheet0.png",
+      "contentType": "image/png",
+      "resourceType": "fetch",
+      "frameUrl": "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/game.html",
+      "category": "allowed",
+      "score": 100,
+      "reasons": [
+        "passes strict same-origin same-directory rules"
+      ],
+      "blockedReason": "",
+      "downloaded": false,
+      "downloadError": ""
+    }
+  ]
+}
