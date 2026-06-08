@@ -6,8 +6,6 @@ const path = require("path");
 const crypto = require("crypto");
 
 const DEFAULT_URLS = [
-  "https://jvliang.myfunmax.com/games/Soccer_Free_Kick/index.html",
-  "https://threehey.myfunmax.com/2312/Shots/index.html",
 ];
 
 const DEFAULT_OUT_DIR = "./downloads";
