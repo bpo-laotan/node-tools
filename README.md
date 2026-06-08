@@ -75,12 +75,6 @@ sudo apt-get install -y libnspr4 libnss3
 
 ## 快速开始
 
-### 使用默认目标运行
-
-```bash
-npm run download:game-images
-```
-
 ### 指定单个游戏页面
 
 ```bash
