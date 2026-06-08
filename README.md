@@ -73,13 +73,6 @@ sudo apt-get update
 sudo apt-get install -y libnspr4 libnss3
 ```
 
-## 默认抓取目标
-
-脚本在未传 `--url` 时，默认抓取以下两个页面：
-
-1. `https://jvliang.myfunmax.com/games/Soccer_Free_Kick/index.html`
-2. `https://threehey.myfunmax.com/2312/Shots/index.html`
-
 ## 快速开始
 
 ### 使用默认目标运行
